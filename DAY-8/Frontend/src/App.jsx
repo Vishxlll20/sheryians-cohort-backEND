@@ -58,7 +58,7 @@ const App = () => {
     }
   
   return (
-    <div className="bg-black h-screen p-10">
+    <div className="bg-black h-screen p-11">
       <form className="ml-50" onSubmit={submithandler}>
         <input
         name="title"
